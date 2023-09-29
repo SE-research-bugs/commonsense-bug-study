@@ -1,0 +1,274 @@
+message,label
+Error writing screenshot,Bad
+"拉取失败
+发生了错误
+Inflater has been closed",Bad
+无法成功初始化新酷音程式库: dictionary.dat,Bad
+Error during upload,Bad
+NoSuchMethodError: The method 'addAll' was called on null. Receiver: null Tried calling: addAll(),Bad
+"UserLAnd has entered an illegal state!
+Failed to extract filesystem. Try clearing support files. Failure reason: [Unknown reason.] We are working to resolve these issues. You can let us know about this issue on Github if you'd like to help!",Bad
+"An error occurred: java.lang.lllegalStateException: failed to get surface
+An error occurred :java.io.lOException: prepare failed",Bad
+"Failed to open Calendar/Tasks app.Intent{flg=0x808000cmp=org.andstatus.todoagenda/.MainActivity ) widgetld:2, entryld:97
+Caused by: class android.util.AndroidRuntimeException, Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK fag. Is this really what you want?",Bad
+"Something went wrong
+If the problem persists please report the issue",Bad
+"org.jivesoftware.smack.SmackException $NoResponseException: No response received within reply timeout. Timeout was 30000ms(~30s).While waiting for establishing TLS
+at
+org.jivesoftware.smack.SynchronizationPoint.checkForResponse(Unknown Source)
+at
+org.jivesoftware.smack.SynchronizationPoint.checklfSuccessOrWait(Unknown Source)
+at
+org.jivesoftware.smack.SynchronizationPoint.checklfSuccessOrWaitOrThrow(UnknownSource)
+at
+org.jivesoftware.smack.AbstractXMPPConnection.connect(Unknown Source)
+...",Bad
+"[ ERROR ] ""{QSGRenderThread}[Setup]: loading style failed: HTTP status code 0""
+[ ERROR ] ""{QSGRenderThread}[Style]: Failed to load glyph range 0-255 for font stack Open Sans Regular,Arial Unicode MS Regular: HTTP status code 0""",Bad
+"Message: Uncaught SyntaxError: Unexpected identifier
+Source: https://chat.zulip.org/
+Line: 1:1994
+Error: {}",Bad
+"Deserializing 'ldata, [permissions: , settings: nullis_owner: true, is admin: true, is lo... to'LoginResponse' failed due to: Deserializing[permissions: , settings: null, is_owner: trueis_admin: true, is locked: f... toBuiltList<UserCompanyEntity>' failed due to:Deserializing 'lpermissions, , is_owner, trueis_admin, true, is _locked, false, updated at,... to'UserCompanyEntity' failed due to: Deserializing ""lidOpnel5aKBz, company_key.vkn3lguioeureufnmboz1mylra6cjigjadf1lahrdcwz90h..! to 'CompanyEntity' failed due to: Deserializing[fid: kzPdy7aQro, user_id: Opnel5aKBz.assigned_user_id: , name: Bella Kuhn, ... toBuiltList<ClientEntity>' failed due to: Deserializingid, kzPdy7aQro, user_id, Opnel5aKBz,assigned_user_id, , name, Bella Kuhn, w... toClientEntity' failed due to: Tried to construct class""ClientEntity"" with null field ""publicNotes"". This isforbidden; to allow it, mark ""publicNotes"" with@nullable.",Bad
+"Error report
+Sorry, that should not have happened.
+Stack trace:
+java.lang.NullPointerExceptionat com.zionhuang.innertube.models.response.lat z6.g.b(SourceFile:4)at z6.g$c.t(Unknown Source:12)at u9 .a.n(Unknown Source:8)
+at f9.h.f(SourceFile:5)f9.h.d(SourceFile:2)at
+at f9.h$a.n(SourceFile:5)u9 .a.n(Unknown Source:31)atf9.h.f(SourceFile:5)atat f9.h.d(SourceFile:2)f9.h$a.n(SourceFile:5)atat u9 .a.n(Unknown Source:31)at f9.h.f(SourceFile:5)f9.h.d(SourceFile:2)atat f9.h$a.n(SourceFile:5)",Bad
+"Network error:
+javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x64adf058: Failure in SSL library, usually a protocol error error:14077410:SSL routines:SSL23_GET_SERVERHELLO:sslv3 alert handshake failure (external/openssl/ssl/s23 clnt.c:744 0x57d97d74:0x00000000)",Bad
+An error occurred while loading items,Bad
+[SocketCore.cc:1015] errorCode=1 SSL/TLS handshake failure: unable to get local issuer certificate,Bad
+ip rule add iif swlan0 unreachable priority 17980 exited with 2..,Bad
+"Oops! Something went wrong
+Unable to load the tweet
+NoSuchMethodError: The method '[]' was called on null. Receiver: null Tried calling: [](""tweet"")",Bad
+"Web page not available
+The web page athttps://www.dropbox.com/oauth2/authorize?client_id=541gm839wnugp3o&response_typecould not be loaded because:
+net::ERRINTERNET DISCONNECTED",Bad
+Une erreur est survenue : java.lang.illegalArgumentException: Unknown authority com.android.contacts,Bad
+Spotify Error : bad search params,Bad
+"Anfragen-ID: 0
+Fehlercode: 3
+Fehlermeldung: o7.b: Field 'staffInfo' is required for type with serial name 'com.sapuseven.untis.models.untis.timetable.PeriodText', but it was missing",Bad
+"An error occured:
+java.lang.NullPointerException:
+Attempt to invoke virtual method
+'java.lang.String ezvcard.parameter
+.VCardParameter.c() on a null object
+refere[...]",Bad
+"askwarriorMessage [headers={client=taskd 1.1.0, code=500, status=ERROR: '253402128000' is not a valid date in the 'm/d/Y' format.}, payload=Optional.empty]",Bad
+"You have some expired deposits. Unless you re-deposit or redeem them, no transactions will be allowed.
+{""uri"":""http://greenaddressit.com/error#internal"",""desc"":""Output not found"",""detail"":{}}",Bad
+HTTP 401 UNAUTHORIZED,Bad
+"Errors occurred
+RestoreFailedException: base.apk is missing in backup",Bad
+Could not launch https://matrix-client.matrix.org/matrix/client/r0/login/sso/redirect?redirectUrl=syphon://syphon.org/login/token,Bad
+"Error:400 Bad Request (nextPage=https://www.youtube.com/youtubei/v1/browse?key=AlzaSyAO_FJ2SIqU8Q4STEHLGCilw_Y9_11qcW8,ids=null)",Bad
+"Loading /storage/emulated/0/Download/Traces-Stephane-Crozat-LicenceArtLibre.epub
+Something went wrong. Please report this book as a bug. (no sections)\",Bad
+Failed to reject transaction: network request failed with an unexpected error. Please reach out to the Safe support. (Error 4221337),Bad
+"Client request (https://api.spotify.com/v1/albums/5uZOmc8N8UKVOvAw2Fbykr) invalid: 429 . Text: ""Too many requests""",Bad
+Whoops! Something went wrong,Bad
+okhttp3.internal.http2.streamRe.setException stream was reset:INTERNAL_ERROR,Bad
+"Oops! Something went wrong
+Unable to list your subscriptions
+type '_OneByteString' is not a subtype of type 'int' in type cast",Bad
+"Se han producido errores
+BackupFailedException: java.io.lOException occurred on data backup:java.io.lOException: Entry 'autoconfig/sdl2/8Bitdo NES30 Pro 8Bitdo NES30 Pro.cfg' closed at o' before the 703' bytes specified in the header were written",Bad
+"'ActivityEntity' failed due to: Tried to constrcut class ""ActivityEntity"" with null field ""notes"". This is forbidden; to allow it, mark ""notes"" with @nullable.",Bad
+"Oops, it looks like Surveyor is having difficulty with this flow. Would you like to send a bug report so we can look into it?",Bad
+Error '1.20.0 (20220922040832) is not a function',Bad
+Type '_Smi' is not a subtype of type 'bool' in type cast,Bad
+"Failed to send command execution reply to sender
+2020-05-01 16:27
+an unexpected error occurred",Bad
+javascript error on line 0: script error,Bad
+"Failure (message: pingPihole failed, error: PIExeption.malformedResponse(error:DioError[DioErrorType.DEFAULT]: SocketExeption: Failed Host Lookup: 'pi.hole' (OS Error: noaddress associated with Hostname, errno = 7)))",Bad
+type 'Null' is not a subtype of type 'int' in type cast,Bad
+"Error Type ""Null"" is not a subtype of type 'Map<String,dynamic>'",Bad
+Unknown error,Bad
+"""integer out of range\n""",Bad
+Attempt to invoke virtual method 'boolean java.lang.Boolean.booleanValue()' on a null object reference,Bad
+"Web page not available
+The web page at http://gymkhana.iitb.ac.in/sso/oauth/authorize/?client_id=vR1pU7wXWyve1rUkg0fMS6StL1Kr6paoSmRl
+could not be loaded because:
+net::ERR_CLEARTEXT_NOT_PERMITTED",Bad
+"Something went wrong
+If this problem recurs, submit an issue at github.com/xbrowsersync/app.",Bad
+An error occurred: java.lang.IllegalArgumentException: Surface was abandoned,Bad
+"ERROR: [generic] '\'if(gt(ih,iw),iw,ih)\':\'if(gt(iw,ih),ih,iw)\'""""' is not a valid URL. Set --default-search ""ytsearch"" (or run  yt-dlp ""ytsearch:'if(gt(ih,iw),iw,ih)':'if(gt(iw,ih),ih,iw)'"""""" ) to search YouTube WARNING: Unable to download video thumbnail 41:",Bad
+500 internal server error,Bad
+An error has occurred while retrieving video's streams.,Bad
+Error Occurred,Bad
+Update DID: Unable to parse VoIP.ms api response (jsonexception).,Bad
+"Unexpected Error:
+PlatformException(error, Unsupported value: '{""enableDebug"":false}' of type class 'org.json.JSONObject', null,java.lang.IllegalArgumentException: Unsupported value: '{""enableDebug"":false}' of type class 'org.json.JSONObject'
+at c6.q.p(Unknown Source:444)
+at c6.r.a(Unknown Source:11)
+at c6.k$a$a.a(Unknown Source:10)
+at h5.k.C(Unknown Source:116)
+at c6.k$a.a(Unknown Source:17
+at q5.c.[(Unknown Source:18)
+at q5.c.m(Unknown Source:20)
+at q5.c.i(Unknown Source:0)
+at q5.b.run(Unknown Source:12)
+at android.os.Handler.handleCallback(Handlerjava:938)
+at android.os.Handler.dispatchMessace(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:210)
+at android.os.Looper.loop(Looper.java:299)
+at android.app.ActivityThread.main(ActivityThread.java:8291)
+at java.lang.reflect.Method.invoke(Native Method)",Bad
+"NoSuchMethodError: The method 'replaceAll' was called on null. Receiver: null Tried calling: replaceAll(""\n"", "" "")
+See also https://flutter.dev/docs/testing/errors",Bad
+an error occurred whilst trying to export the vault,Bad
+An error occurred: java.io.FileNotFoundException: Unsupported mode: wt,Bad
+"Invalid PDSA Found
+SyntaxError: JSON Parse error: Unexpected identifier ""settings"".",Bad
+Unknown error occured,Bad
+"Error while connecting to server
+DioError [DioErrorType.REPONSE]: Http status error [200]",Bad
+msgNode.getAttribute is not a function.,Bad
+Unexpected error occured,Bad
+An error occurred,Bad
+Whoops! Something went wrong.,Bad
+no protocol: /map?bbox=xx.xx%2Cxx.xx%2Cxx.xx%2Cxx.xx,Bad
+"QueryFailedError: duplicate key value violates unique constraint ""UQ_b599ab0bd9574958acb0b30a90e",Bad
+400 error. Unknown mp-syndicate-to targets: ...,Bad
+"One or more errors occurred during the import
+com.beemdevelopment.aegis.encoding.EncodingException: java.lang.IllegalArgumentException: com.google.common.io.BaseEncoding$DecodingException: Invalid input length 81
+com.beemdevelopment.aegis.encoding.EncodingException: java.lang.IllegalArgumentException: com.google.common.io.BaseEncoding$DecodingException: Invalid input length 59
+com.beemdevelopment.aegis.encoding.EncodingException: java.lang.IllegalArgumentException: com.google.common.io.BaseEncoding$DecodingException: Invalid input length 59",Bad
+There was a problem sending your comments: null,Bad
+Error fetching what's new :( HTTP 404,Bad
+Error occured,Bad
+Error: Couldn't import vCard,Bad
+Sharing failed,Bad
+Failed to reject transaction: an error occurred. Please try again later,Bad
+"Equalizer initialization failed
+",Bad
+Unexpected error while setting up DAVx5 (formerly known as DAVdroid),Bad
+Unknown error,Bad
+Unknown error occurred!,Bad
+SSL initialization failed,Bad
+No information about the error,Bad
+Unexpected error while copying to clipboard,Bad
+"Error: Unknown error, this is probably a bug.",Bad
+server-side error. Please try again later or contact Safe support if the issue persists. (Error 500),Bad
+"Oops, something went wrong!",Bad
+"Sorry, that should not have happened.",Bad
+Connection unsuccessful. An unexpected response was received while trying to connect to the configured openHAB server (HTTP code 400).,Bad
+An unknown error occurred:,Bad
+SSL handshake failed,Bad
+An error occurred while loading notifications,Bad
+No Internet connection. Unable to establish a connection to the Internet. Please check your device connectivity.,Good
+Failed to download hosts source. None of your enabled hosts sources are reachable. Please check you are properly connected to the Internet.,Good
+Failed to create private file. Unable to create a private file to build a new hosts source. Please check the free space available on your device.,Good
+Not enough space. Unable to copy hosts file to your system partition. Please check Magisk systemless module is enabled then reboot.,Good
+Failed to install new hosts file. Unable to copy hosts file to /system partition. Please check Magisk systemless module is enabled then reboot.,Good
+Failed to revert hosts file. Unable to restore default hosts file configuration.,Good
+Termux can only be run as the primary user. Bootstrap binaries compiled for Termux have hardcoded $PREFIX path and cannot be installed under any path other than...,Good
+"Termux requires ""Display over other apps"" permission to start terminal sessions from background on Android >= 10. Grants it from Settings -> Apps -> Termux -> Advanced",Good
+"Sorry, we don鈥檛 know that email address. Try again?",Good
+Login does not match any of our records.,Good
+Unable to log in.,Good
+There was a problem logging you in with Facebook.,Good
+It seems that you have denied Kickstarter access to your Facebook account. Please go to Settings > Facebook and toggle access.,Good
+Permission denied,Good
+We're sorry but we are unable to process your Android Pay request right now. Please try again.,Good
+"Sorry, your comment could not be posted.",Good
+Couldn't send message. Try again.,Good
+Files with fewer than 2 characters not saved automatically in order to prevent data loss.,Good
+File/folder already exists! Please use a different name,Good
+Error: Could not open file.,Good
+Password already set. Setting a new password will overwrite the existing password and you may not be able to access files anymore in case you forget the password.,Good
+Could not decrypt file content. Did you use a wrong password? Is the file really encrypted with Markors AES encryption?,Good
+"Warning! The app doesn't have the permission to save this file, all changes will be lost. There is no possibility to resolve the problem or to confirm something, Android denies any access here.",Good
+File or directory does not exist and can not be created,Good
+Error: Cannot create notebook directory,Good
+Username and / or Password is incorrect!,Good
+No authentication found in Storage,Good
+The stored credentials where no longer valid and you have been logged out!,Good
+Authentication was not successful.\nMaybe the provided server host is not correct?,Good
+Could not retrieve the Categories from the server.,Good
+The API version of the server was updated. Some features might not work as expected. Please wait for an update!,Good
+Categories could not be loaded. Make sure that the Cookbook plugin is installed on this Nextcloud instance!,Good
+"Please add a ""Todo Agenda"" widget from the home screen of your device first.",Good
+xBrowserSync folder changed. Please avoid modifying [xbs] folders as it can cause sync issues.,Good
+"Daily new sync limit reached. Sync to an existing sync ID, switch to a different service or try again tomorrow.",Good
+Couldn鈥檛 get bookmark properties. URL is invalid or webpage data could not be retrieved.,Good
+Unable to restore data. The backup data provided is not in an expected format.,Good
+"Sync failed. Check your network connection and try again. If the issue persists, there could be a problem with the xBrowserSync service.",Good
+Missing credentials: Unable to find stored credentials. Re-enable sync and try again.,Good
+"Invalid credentials: Check that your sync ID, password and service URL have been entered correctly.",Good
+Invalid xBrowserSync service: The service URL is not a valid xBrowserSync service.,Good
+"Unexpected bookmarks structure: Possible corrupt browser profile, try creating a new profile as it may resolve the issue.",Good
+"Sync error: Local browser data has been refreshed, please reapply last change.",Good
+Sync conflict detected. Local data was out of sync and has now been refreshed. Please reapply last change.,Good
+Received data did not include a valid file.,Good
+No file to upload,Good
+File selected for upload not found. Please check whether the file exists.,Good
+Could not copy file to a temporary folder. Try to resend it.,Good
+"The folder """" does not exist anymore",Good
+Access denied by authorization server,Good
+There is no local file to preview,Good
+Song title cannot be empty.,Good
+Playlist name cannot be empty.,Good
+Please check your system date & time settings.,Good
+"This device is not compatible with Twidere, upgrade to latest Android OS is recommended. You can send information below to help me report this issue to device manufacturer.",Good
+Attach media to DM is not supported,Good
+"Media uploader not found, maybe it was uninstalled.",Good
+"Twitter's rate limit exceeded, please retry later",Good
+Tweet too long.,Good
+"No direct message permission, check your Twitter application permission setting.",Good
+"This tweet, user or page does not exist.",Good
+Your account is suspended and is not permitted to access this feature.,Good
+Please check your system clock.,Good
+You've already saved this search.,Good
+Failed creating an empty session file!,Good
+You denied the write permission! Can't start aria2!,Good
+"You have installed the app correctly, but it looks like Android didn't extract the native libraries for this app.",Good
+The address is malformed. Please provide an Ethereum address,Good
+Name contains invalid characters,Good
+"Invalid domain name. Please check the domain, it should end with .crypto or .zil",Good
+Amount should be greater than 0,Good
+Unfortunately you do not have any mail clients configured.,Good
+Could not load more transactions,Good
+Max priority fee must be less than or equal to max fee,Good
+Seed phrase is not valid,Good
+Please refresh the screen,Good
+Failed to load transaction details,Good
+Device is not connected to the Internet. Please try again when Internet is available,Good
+You'll need to close and restart the app for this to take effect,Good
+"This user doesn't appear to exist within matrix, but you can attempt to invite them anyway. Make sure you have the correct name before trying.",Good
+Message Failed To Send,Good
+This server failed the 'well-known' check. Make sure the server is configured correctly.,Good
+Looks like you may be offline. Check your connection and try again.,Good
+No Images Found.,Good
+You must logout of your current session to enable multiaccounts,Good
+Invalid port number selected,Good
+You will need to copy this file to storage to open it,Good
+Error: File Too Large,Good
+Invalid path,Good
+Amaze Cloud plugin not found. Please download from Play Store.,Good
+"RAR archive """" is unsupported RAR v5 archive.",Good
+You are choosing a path which requires root access. Please enable root explorer in settings if your device is rooted.,Good
+""""" is a corrupted archive.",Good
+File could not be opened using this app,Good
+Error fetching product list from Google Play.,Good
+"Unable to get package info from file """". Either the specified file is not an APK, or the package file is corrupt.",Good
+Amaze Cloud Plugin not supported with F-Droid version. Please use Play Store version of Amaze.,Good
+"Unfortunately, we were unable to migrate your cloud connection credentials to the new database schema, and we had to remove them from the app. Please create the cloud connection again.",Good
+Please enter a valid URL in a 'http(s)://host(:port)/' form,Good
+"The first character is a whitespace, which is probably unwanted",Good
+Unable to resolve hostname,Good
+"Event subscription failed, Widget refresh may be impaired",Good
+No voice recognition app found,Good
+No browser found on your device,Good
+"Notifications are unavailable: Error connecting to remote server: """"",Good
+item update failed (No connection),Good
+Couldn\'t unlock vault. Incorrect password. Make sure you didn\'t mistype your password.,Good
+The icon pack you\'re trying to import already exists. Do you want to overwrite it?,Good
+Error: Unable to obtain root access,Good
